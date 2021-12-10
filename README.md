@@ -1,0 +1,4 @@
+- hi, I’m @rainygardens
+- i’m interested in vocal synthesis and resampling, front-end ui design
+- currently a student at Wrocław University
+- reach me by mail: therainygardens@gmail.com or at discord rainygardens#3058
